@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quick TicTacToe</string>
+    <string name="x">X</string>
+    <string name="o">O</string>
+    <string name="choose_board">Choose Board Size</string>
+    <string name="choose_board_message">Please enter the number of elements needed in order to win your tic tac toe game! (3 or greater is highly recommended! :P)</string>
+    <string name="ok">OK</string>
+    <string name="p1_victory">Player 1 Wins!</string>
+    <string name="p2_victory">Player 2 Wins!</string>
+    <string name="thanks">Thank you for playing!</string>
+    <string name="p1_go">Player 1 (X) - Click your spot!</string>
+    <string name="p2_go">Player 2 (O) - Click your spot!</string>
+    <string name="draw">It\'s a draw!</string>
+    <string name="loading">Loading&#8230;</string>
+</resources>
